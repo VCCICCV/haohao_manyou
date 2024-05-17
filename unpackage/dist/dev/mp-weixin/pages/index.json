@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "好好漫游",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "up-image": "../node-modules/uview-plus/components/u-image/u-image",
+    "up-col": "../node-modules/uview-plus/components/u-col/u-col",
+    "up-row": "../node-modules/uview-plus/components/u-row/u-row"
+  }
+}
